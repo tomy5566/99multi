@@ -78,7 +78,7 @@ h1 {
   margin: 10px;
 }
 
-.card0::before{
+/* .card0::before{
   position: absolute;
   content: "";
   height: 1px;
@@ -94,7 +94,7 @@ h1 {
   top: 54%;
   background: #2eb738;
   width: 180px;
-}
+} */
 
 h2{
 margin-bottom: 10px;
