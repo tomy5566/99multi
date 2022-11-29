@@ -10,7 +10,7 @@
 - HTML
 - CSS: [flex](https://developer.mozilla.org/zh-CN/docs/Web/CSS/flex)
 - JavaScript
-- AJAX 
+
 
 ## JavaScript 使用技術介紹
 
