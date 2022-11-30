@@ -16,6 +16,7 @@
 
 1. 使用複迴圈印出九九乘法表的值。利用 [Element.innerHTML](https://developer.mozilla.org/zh-TW/docs/Web/API/Element/innerHTML) 渲染到畫面。
 2. 使用CSS　flex 進行乘法卡片排版與卡片內欄位排版。
+3. 利用CSS 進行邊框曲度變換，文字框線與陰影設計。
 
 
 ## 功能介紹
